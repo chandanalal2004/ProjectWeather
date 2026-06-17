@@ -85,3 +85,9 @@ The project uses weather data containing:
 
 ## Authors
 Developed as a team-based Big Data project using Hadoop ecosystem technologies for distributed weather data analysis.
+
+##Team Members:
+Chandana N V
+Ahalya C S
+Dilsha Fathima 
+Deepthi M
